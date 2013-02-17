@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * This file is part of Jbh_DynamicField for Magento.
+ *
+ * @license Lesser General Public License v3 (http://www.gnu.org/licenses/lgpl-3.0.txt)
+ * @author Jacques Bodin-Hullin <jacques@bodin-hullin.net>
+ * @category Jbh
+ * @package Jbh_DynamicField
+ * @copyright Copyright (c) 2013 Jacques Bodin-Hullin (http://jacques.sh/)
+ */
+-->
+<config>
+    <modules>
+        <Jbh_DynamicField>
+            <version>0.1.0</version>
+        </Jbh_DynamicField>
+    </modules>
+    <global>
+        <helpers>
+            <jbh_dynamicfield>
+                <class>Jbh_DynamicField_Helper</class>
+            </jbh_dynamicfield>
+        </helpers>
+        <blocks>
+            <jbh_dynamicfield>
+                <class>Jbh_DynamicField_Block</class>
+            </jbh_dynamicfield>
+        </blocks>
+        <models>
+            <jbh_dynamicfield>
+                <class>Jbh_DynamicField_Model</class>
+            </jbh_dynamicfield>
+        </models>
+    </global>
+</config>
