@@ -33,4 +33,15 @@
             </jbh_dynamicfield>
         </models>
     </global>
+    <adminhtml>
+        <translate>
+            <modules>
+                <Jbh_DynamicField>
+                    <files>
+                        <default>Jbh_DynamicField.csv</default>
+                    </files>
+                </Jbh_DynamicField>
+            </modules>
+        </translate>
+    </adminhtml>
 </config>

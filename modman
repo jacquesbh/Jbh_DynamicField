@@ -8,4 +8,6 @@
 
 app/code/community/Jbh/DynamicField     app/code/community/Jbh/DynamicField/
 app/etc/modules/Jbh_DynamicField.xml    app/etc/modules/Jbh_DynamicField.xml
+app/locale/en_US/Jbh_DynamicField.csv    app/locale/en_US/Jbh_DynamicField.csv
+app/locale/fr_FR/Jbh_DynamicField.csv    app/locale/fr_FR/Jbh_DynamicField.csv
 
