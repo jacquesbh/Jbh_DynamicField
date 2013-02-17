@@ -42,6 +42,4 @@ HTML;
         return $html;
     }
 
-// Jacques Bodin-Hullin Tag NEW_METHOD
-
 }

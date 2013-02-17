@@ -16,10 +16,6 @@
 class Jbh_DynamicField_Block_Adminhtml_Catalog_Product_Renderer_Multiselect extends Varien_Data_Form_Element_Multiselect
 {
 
-// Jacques Bodin-Hullin Tag NEW_CONST
-
-// Jacques Bodin-Hullin Tag NEW_VAR
-
     /**
      * Retrieve element html
      * @access public
@@ -45,7 +41,5 @@ HTML;
         // Continue =)
         return $html;
     }
-
-// Jacques Bodin-Hullin Tag NEW_METHOD
 
 }
